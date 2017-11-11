@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaterView">
+        <attr name="water_color" format="color"/>
+        <attr name="water_peak" format="dimension"/>
+        <attr name="water_trough" format="dimension"/>
+        <attr name="water_height" format="dimension"/>
+    </declare-styleable>
+</resources>
